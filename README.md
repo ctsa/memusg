@@ -14,3 +14,5 @@ Example:
 ```bash
 memusg sleep 2
 ```
+
+Note (ctsa) this version is forked from jhclark/memusg. The motivating change is to measure peak rss instaead of vmsize
